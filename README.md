@@ -1,5 +1,5 @@
 # How To Make Dashboard With R-Shiny
-# Final Project Mining and Visuals Data
+Final Project Mining and Visuals Data
 
 # Team
 1. Hanif Choiruddin
